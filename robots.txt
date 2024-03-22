@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cowoo.github.io/jekyll-al-folio/sitemap.xml
+Sitemap: https://weichen.info/jekyll-al-folio/sitemap.xml
